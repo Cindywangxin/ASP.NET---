@@ -27,7 +27,7 @@ HTML 服务器控件主要是保证服务端运行的增强型标准 HTML 控件
 下面这个表格介绍了 HTML 服务器控件：
 
 |控件名称|HTML标签|
-|--------|:----|
+|--------|:-------|
 |HtmlHead|<\head>element|-->-->
 |HtmlInputButton|<\input type=button|submit|reset>|
 |HtmlInputCheckbox|<\input type=checkbox>|
@@ -45,9 +45,9 @@ HTML 服务器控件主要是保证服务端运行的增强型标准 HTML 控件
 |HtmlButton|<\button>element|
 |HtmlForm|<\form>element|
 |HtmlTable|<\table>element|
-|HtmlTableCell|<\td> and <th>|
-|HtmlTableRow|<\tr> element|
-|HtmlTitle|<\title> element|
+|HtmlTableCell|<\td> and <\th>|
+|HtmlTableRow|<\tr>element|
+|HtmlTitle|<\title>element|
 |HtmlSelect|<\select>element|
 |HtmlGenericControl|未列出的所有 HTML 控件|
 
